@@ -30,7 +30,7 @@ const Footer = () => {
             <div className='flex gap-x-3'>
               <FiFacebook className='text-4xl' />
               <AiOutlineGithub className='text-4xl' />
-              <AiOutlineInstagram className='text-4xl' />
+              <AiOutlineInstagram className='text-4xl' href="https://github.com/sip-userbot" />
             </div>
           </div>
         </div>
